@@ -49,4 +49,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TechDevSubhopriyo&border=FEDE00&ring=FEDE00&background=061E47&currStreakNum=FF4500&sideNums=00fa00&sideLabels=8BCD50&dates=43B0F1&date_format=d%20F[,%20Y])
 
+<img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=TechDevSubhopriyo&theme=algolia" width="80%"/>
+
 ![](https://komarev.com/ghpvc/?username=TechDevSubhopriyo)
