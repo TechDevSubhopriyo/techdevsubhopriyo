@@ -12,6 +12,9 @@
 - ⚡ Fun fact: I came to know about Github when I learnt about Hacktoberfest, in the year 2019
 - বাঙালি by Heart 💓 , Born in The City of Joy 😏 KOLKATA 
 
+
+### :coffee: Its an awesome feeling to see you here. Please do connect with me, who knows what we might build together! :smirk:
+
 ## 🛠 Languages, Tools and Technologies:
  
  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="200px" height="200px" align="right"/>
