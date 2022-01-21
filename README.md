@@ -1,7 +1,7 @@
 ## Hello Geek <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Welcome to Subhopriyo Sadhukhan's Github Profile 
 
 - 🔭 I’m a B.tech under grad, studying Computer Science and Engineering in Heritage Institute of technology, Kolkata
-- 🌱 I’m currently focusing on my GATE Preparations
+- 🌱 Looking for Internships
 - 👯 I’d love to collaborate on Android, Web, Machine learning projects
 - 💬 Ask me about cars 🚗 , and am surely gonna blow your mind
 - 📫 How to reach me:
