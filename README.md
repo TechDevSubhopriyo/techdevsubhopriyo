@@ -1,4 +1,4 @@
-## Hello Geek <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">, Welcome to Subhopriyo Sadhukhan's Github Profile 
+## Hello Geek <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'>, Welcome to Subhopriyo Sadhukhan's Github Profile 
 
 - 🔭 I’m a B.tech under grad, studying Computer Science and Engineering in Heritage Institute of technology, Kolkata
 - 🌱 Looking for Internships
